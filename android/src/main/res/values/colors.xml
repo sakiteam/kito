@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="decline_call_btn">#F44336</color>
+    <color name="accept_call_btn">#4CAF50</color>
+    <color name="call_notification_color_accent">#F44336</color>
+    <color name="gray">#252525</color>
+</resources>
